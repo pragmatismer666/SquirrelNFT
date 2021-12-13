@@ -1,0 +1,464 @@
+[
+    {
+        "name": "squirrel0",
+        "description": "Squirrel0 reporting for duty!",
+        "image": "https://ipfs.io/ipfs/QmbJ8GB2AqzseZDqtWdXHba8HG9oXo1hs6NpkPut6fkLSQ?filename=squirrel0.png",
+        "attributes": [
+            {
+                "trait_type": "cuteness",
+                "value": 35
+            }
+        ]
+    },
+    {
+        "name": "squirrel1",
+        "description": "Squirrel1 reporting for duty!",
+        "image": "https://ipfs.io/ipfs/QmZwyHEoHuoRj1w7XgQ9Tiag8duS5NJm818byCJ83NsAVK?filename=squirrel1.png",
+        "attributes": [
+            {
+                "trait_type": "cuteness",
+                "value": 80
+            }
+        ]
+    },
+    {
+        "name": "squirrel2",
+        "description": "Squirrel2 reporting for duty!",
+        "image": "https://ipfs.io/ipfs/QmXUr9de4HwscWQhbPfUsMcZJEqGfr6k8ULS3SgUcQtnAj?filename=squirrel2.png",
+        "attributes": [
+            {
+                "trait_type": "cuteness",
+                "value": 15
+            }
+        ]
+    },
+    {
+        "name": "squirrel3",
+        "description": "Squirrel3 reporting for duty!",
+        "image": "https://ipfs.io/ipfs/QmZwjhwfJxWBcZz7vrgAJB38n9wGhqEvjHajdmz7pm3JAp?filename=squirrel3.png",
+        "attributes": [
+            {
+                "trait_type": "cuteness",
+                "value": 45
+            }
+        ]
+    },
+    {
+        "name": "squirrel4",
+        "description": "Squirrel4 reporting for duty!",
+        "image": "https://ipfs.io/ipfs/QmV2V6zxwfdAFr3wxzTak3Y58baM3G2goJjPyi1DaesdHH?filename=squirrel4.png",
+        "attributes": [
+            {
+                "trait_type": "cuteness",
+                "value": 80
+            }
+        ]
+    },
+    {
+        "name": "squirrel5",
+        "description": "Squirrel5 reporting for duty!",
+        "image": "https://ipfs.io/ipfs/QmVjegJaQQG74KWymH6AUiTCUXdLX7KJ2rr2WRPaLdCUYV?filename=squirrel5.png",
+        "attributes": [
+            {
+                "trait_type": "cuteness",
+                "value": 80
+            }
+        ]
+    },
+    {
+        "name": "squirrel6",
+        "description": "Squirrel6 reporting for duty!",
+        "image": "https://ipfs.io/ipfs/QmUXs6v1D2Xz5hbr1Bism3cV4SoNiiT9ZzDz6aZK2cpChe?filename=squirrel6.png",
+        "attributes": [
+            {
+                "trait_type": "cuteness",
+                "value": 65
+            }
+        ]
+    },
+    {
+        "name": "squirrel7",
+        "description": "Squirrel7 reporting for duty!",
+        "image": "https://ipfs.io/ipfs/QmVFCTQXTme43oviQRDNTCpxDmWM1jEzg72jA1eCgxuvah?filename=squirrel7.png",
+        "attributes": [
+            {
+                "trait_type": "cuteness",
+                "value": 60
+            }
+        ]
+    },
+    {
+        "name": "squirrel8",
+        "description": "Squirrel8 reporting for duty!",
+        "image": "https://ipfs.io/ipfs/QmecgNwZXJdWhnkxhjKQePqF42gHVoAcUhEWJs7Y5yNY7T?filename=squirrel8.png",
+        "attributes": [
+            {
+                "trait_type": "cuteness",
+                "value": 40
+            }
+        ]
+    },
+    {
+        "name": "squirrel9",
+        "description": "Squirrel9 reporting for duty!",
+        "image": "https://ipfs.io/ipfs/QmZPkkugn6615HCoJ9qsk1knTuTcyuznAZTFJuQhPHMe6F?filename=squirrel9.png",
+        "attributes": [
+            {
+                "trait_type": "cuteness",
+                "value": 20
+            }
+        ]
+    },
+    {
+        "name": "squirrel10",
+        "description": "Squirrel10 reporting for duty!",
+        "image": "https://ipfs.io/ipfs/QmSTrtCYK13PKeJHePd7u9gi2f4P7y4MjHG9w7nN6S16Ao?filename=squirrel10.png",
+        "attributes": [
+            {
+                "trait_type": "cuteness",
+                "value": 45
+            }
+        ]
+    },
+    {
+        "name": "squirrel11",
+        "description": "Squirrel11 reporting for duty!",
+        "image": "https://ipfs.io/ipfs/QmSWz6U2aPo7L5Yka1bA3Q2xoxr3V7Yay6oCJQfTn9ePyR?filename=squirrel11.png",
+        "attributes": [
+            {
+                "trait_type": "cuteness",
+                "value": 75
+            }
+        ]
+    },
+    {
+        "name": "squirrel12",
+        "description": "Squirrel12 reporting for duty!",
+        "image": "https://ipfs.io/ipfs/QmPSSWWzZGqppigVkS9BUJKXqe67aFTkFH6mrKDHBjjv8n?filename=squirrel12.png",
+        "attributes": [
+            {
+                "trait_type": "cuteness",
+                "value": 50
+            }
+        ]
+    },
+    {
+        "name": "squirrel13",
+        "description": "Squirrel13 reporting for duty!",
+        "image": "https://ipfs.io/ipfs/QmdLKJvpn96tautzvv2EoCyALu5r1kFr6HC9DgcFsSQfUa?filename=squirrel13.png",
+        "attributes": [
+            {
+                "trait_type": "cuteness",
+                "value": 30
+            }
+        ]
+    },
+    {
+        "name": "squirrel14",
+        "description": "Squirrel14 reporting for duty!",
+        "image": "https://ipfs.io/ipfs/QmP87EQdutA7neYgKi3JbHr6ctHm4gbPtLcnwQYTo8fuAJ?filename=squirrel14.png",
+        "attributes": [
+            {
+                "trait_type": "cuteness",
+                "value": 85
+            }
+        ]
+    },
+    {
+        "name": "squirrel15",
+        "description": "Squirrel15 reporting for duty!",
+        "image": "https://ipfs.io/ipfs/QmR1ZUxUJGQWMVmcT3SUG3ie9ugjyN7a3VNcPgGXS5744P?filename=squirrel15.png",
+        "attributes": [
+            {
+                "trait_type": "cuteness",
+                "value": 60
+            }
+        ]
+    },
+    {
+        "name": "squirrel16",
+        "description": "Squirrel16 reporting for duty!",
+        "image": "https://ipfs.io/ipfs/QmShSj1CgWmiSyUAjquHyciySGAszJCFqRXbM2nxuxTFiQ?filename=squirrel16.png",
+        "attributes": [
+            {
+                "trait_type": "cuteness",
+                "value": 65
+            }
+        ]
+    },
+    {
+        "name": "squirrel17",
+        "description": "Squirrel17 reporting for duty!",
+        "image": "https://ipfs.io/ipfs/QmP35KqttLqtGdkEUT3BcX6B3QT7wN7bhUHoPbfGPfUbZs?filename=squirrel17.png",
+        "attributes": [
+            {
+                "trait_type": "cuteness",
+                "value": 45
+            }
+        ]
+    },
+    {
+        "name": "squirrel18",
+        "description": "Squirrel18 reporting for duty!",
+        "image": "https://ipfs.io/ipfs/QmUYsv8sT9rvRuVmA5sXq6T2zdPMXHFPX6ZnpVS9VDHpar?filename=squirrel18.png",
+        "attributes": [
+            {
+                "trait_type": "cuteness",
+                "value": 60
+            }
+        ]
+    },
+    {
+        "name": "squirrel19",
+        "description": "Squirrel19 reporting for duty!",
+        "image": "https://ipfs.io/ipfs/QmPDthG2VMjqqX1G8AjT8Wgc9Wwy61wDbw72ZVDkPGDAr4?filename=squirrel19.png",
+        "attributes": [
+            {
+                "trait_type": "cuteness",
+                "value": 70
+            }
+        ]
+    },
+    {
+        "name": "squirrel20",
+        "description": "Squirrel20 reporting for duty!",
+        "image": "https://ipfs.io/ipfs/Qmb2kQNEVC2Y4H4UfckP7uNuQXiPA3Dw1G5wCCGuhHE3wo?filename=squirrel20.png",
+        "attributes": [
+            {
+                "trait_type": "cuteness",
+                "value": 80
+            }
+        ]
+    },
+    {
+        "name": "squirrel21",
+        "description": "Squirrel21 reporting for duty!",
+        "image": "https://ipfs.io/ipfs/QmZXwQjTkYneewcJv94gfKYW2LJgxiybKiW4JSrqtf1X1J?filename=squirrel21.png",
+        "attributes": [
+            {
+                "trait_type": "cuteness",
+                "value": 35
+            }
+        ]
+    },
+    {
+        "name": "squirrel22",
+        "description": "Squirrel22 reporting for duty!",
+        "image": "https://ipfs.io/ipfs/QmfVkNR7qUjHxQWWu1kv6hR2xh9hLKJQigfaSXyWDYvqFX?filename=squirrel22.png",
+        "attributes": [
+            {
+                "trait_type": "cuteness",
+                "value": 60
+            }
+        ]
+    },
+    {
+        "name": "squirrel23",
+        "description": "Squirrel23 reporting for duty!",
+        "image": "https://ipfs.io/ipfs/QmYMLCfuxP6YP9y7noDAJV3KzVJjmsTyqmh57uT8XRKczy?filename=squirrel23.png",
+        "attributes": [
+            {
+                "trait_type": "cuteness",
+                "value": 100
+            }
+        ]
+    },
+    {
+        "name": "squirrel24",
+        "description": "Squirrel24 reporting for duty!",
+        "image": "https://ipfs.io/ipfs/QmbfzgfkdZrXhQ1RwRqMe86KXeB9BPXdRCynoZeF7MCqzd?filename=squirrel24.png",
+        "attributes": [
+            {
+                "trait_type": "cuteness",
+                "value": 55
+            }
+        ]
+    },
+    {
+        "name": "squirrel25",
+        "description": "Squirrel25 reporting for duty!",
+        "image": "https://ipfs.io/ipfs/QmZUBx6N8aMkCU2KSYHNXueLUQxfxFNR8uvwEkLahpsXb2?filename=squirrel25.png",
+        "attributes": [
+            {
+                "trait_type": "cuteness",
+                "value": 55
+            }
+        ]
+    },
+    {
+        "name": "squirrel26",
+        "description": "Squirrel26 reporting for duty!",
+        "image": "https://ipfs.io/ipfs/QmeEGzEGbBjpnWTCS7o8y2bgaTdgthvFEHAER4mzX9bQEJ?filename=squirrel26.png",
+        "attributes": [
+            {
+                "trait_type": "cuteness",
+                "value": 25
+            }
+        ]
+    },
+    {
+        "name": "squirrel27",
+        "description": "Squirrel27 reporting for duty!",
+        "image": "https://ipfs.io/ipfs/QmdSDGpGDx6MDSDKxfWkhTUSnbjn2JQWoKDTxc4uaBCH8M?filename=squirrel27.png",
+        "attributes": [
+            {
+                "trait_type": "cuteness",
+                "value": 40
+            }
+        ]
+    },
+    {
+        "name": "squirrel28",
+        "description": "Squirrel28 reporting for duty!",
+        "image": "https://ipfs.io/ipfs/QmRUZgzuCg4F2hCCWnoXCAHtyRkRcymUWeHEAYLQ6wBMYT?filename=squirrel28.png",
+        "attributes": [
+            {
+                "trait_type": "cuteness",
+                "value": 60
+            }
+        ]
+    },
+    {
+        "name": "squirrel29",
+        "description": "Squirrel29 reporting for duty!",
+        "image": "https://ipfs.io/ipfs/QmNofJBHX8LpBjnB35FKkfEJkMHebSNkeRiHUSJX8TFzwt?filename=squirrel29.png",
+        "attributes": [
+            {
+                "trait_type": "cuteness",
+                "value": 25
+            }
+        ]
+    },
+    {
+        "name": "squirrel30",
+        "description": "Squirrel30 reporting for duty!",
+        "image": "https://ipfs.io/ipfs/QmTYbnxUii8HFRyRAyvBrEKWaKMdV6HehdDiug357y1W3g?filename=squirrel30.png",
+        "attributes": [
+            {
+                "trait_type": "cuteness",
+                "value": 45
+            }
+        ]
+    },
+    {
+        "name": "squirrel31",
+        "description": "Squirrel31 reporting for duty!",
+        "image": "https://ipfs.io/ipfs/QmWSzUz5uhs18skNgzRrwZ3Dsx53fE3g4whBfm1Grs9pwe?filename=squirrel31.png",
+        "attributes": [
+            {
+                "trait_type": "cuteness",
+                "value": 90
+            }
+        ]
+    },
+    {
+        "name": "squirrel32",
+        "description": "Squirrel32 reporting for duty!",
+        "image": "https://ipfs.io/ipfs/QmP1HtivqjDaRdZC2wWa24AqNDboVoeV4cnWHP6CLfyajz?filename=squirrel32.png",
+        "attributes": [
+            {
+                "trait_type": "cuteness",
+                "value": 35
+            }
+        ]
+    },
+    {
+        "name": "squirrel33",
+        "description": "Squirrel33 reporting for duty!",
+        "image": "https://ipfs.io/ipfs/QmVR7hosBX71j5REFeqPMVSXzmdFj1iMYoFakHSB1wmHec?filename=squirrel33.png",
+        "attributes": [
+            {
+                "trait_type": "cuteness",
+                "value": 45
+            }
+        ]
+    },
+    {
+        "name": "squirrel34",
+        "description": "Squirrel34 reporting for duty!",
+        "image": "https://ipfs.io/ipfs/QmPtBvuwqpWSNBeCJejrzpv1XFqjauySAjwPZNciijXVKM?filename=squirrel34.png",
+        "attributes": [
+            {
+                "trait_type": "cuteness",
+                "value": 40
+            }
+        ]
+    },
+    {
+        "name": "squirrel35",
+        "description": "Squirrel35 reporting for duty!",
+        "image": "https://ipfs.io/ipfs/QmQtqxUL5VF2YDVm2i79vEpBiHjAELzjL9dFA2UDP8AkFJ?filename=squirrel35.png",
+        "attributes": [
+            {
+                "trait_type": "cuteness",
+                "value": 5
+            }
+        ]
+    },
+    {
+        "name": "squirrel36",
+        "description": "Squirrel36 reporting for duty!",
+        "image": "https://ipfs.io/ipfs/QmTe1CcAzhhDWNVXHSECAEVAfbVEgvxyZAuqHbWAG14Emr?filename=squirrel36.png",
+        "attributes": [
+            {
+                "trait_type": "cuteness",
+                "value": 45
+            }
+        ]
+    },
+    {
+        "name": "squirrel37",
+        "description": "Squirrel37 reporting for duty!",
+        "image": "https://ipfs.io/ipfs/QmcZhLyun8D3TEWBLwostHbxt2SWYukZP63yQrdQi2beaV?filename=squirrel37.png",
+        "attributes": [
+            {
+                "trait_type": "cuteness",
+                "value": 60
+            }
+        ]
+    },
+    {
+        "name": "squirrel38",
+        "description": "Squirrel38 reporting for duty!",
+        "image": "https://ipfs.io/ipfs/QmfDoDo5ASZHV8LxmtNTFngjeVyTjZMToRH83QXi1o8bSF?filename=squirrel38.png",
+        "attributes": [
+            {
+                "trait_type": "cuteness",
+                "value": 70
+            }
+        ]
+    },
+    {
+        "name": "squirrel39",
+        "description": "Squirrel39 reporting for duty!",
+        "image": "https://ipfs.io/ipfs/Qmcwo9tsoadSFGhrB3aZXBH887jMpoXwTwjtq9nzXsFcpf?filename=squirrel39.png",
+        "attributes": [
+            {
+                "trait_type": "cuteness",
+                "value": 50
+            }
+        ]
+    },
+    {
+        "name": "squirrel40",
+        "description": "Squirrel40 reporting for duty!",
+        "image": "https://ipfs.io/ipfs/QmZpjSaUrFpUezzbyDk9ka7hGfLepVLo5WW7kG3qXnXbng?filename=squirrel40.png",
+        "attributes": [
+            {
+                "trait_type": "cuteness",
+                "value": 65
+            }
+        ]
+    },
+    {
+        "name": "squirrel41",
+        "description": "Squirrel41 reporting for duty!",
+        "image": "https://ipfs.io/ipfs/QmVLF74fQkBnazppCyKQM8TV1YFbTh7QwjEEicKRu4yABJ?filename=squirrel41.png",
+        "attributes": [
+            {
+                "trait_type": "cuteness",
+                "value": 65
+            }
+        ]
+    }
+]

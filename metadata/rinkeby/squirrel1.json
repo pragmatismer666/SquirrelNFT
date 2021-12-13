@@ -1,0 +1,11 @@
+{
+    "name": "squirrel1",
+    "description": "Squirrel1 reporting for duty!",
+    "image": "ipfs://QmZwyHEoHuoRj1w7XgQ9Tiag8duS5NJm818byCJ83NsAVK",
+    "attributes": [
+        {
+            "trait_type": "cuteness",
+            "value": 80
+        }
+    ]
+}

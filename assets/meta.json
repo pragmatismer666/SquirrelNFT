@@ -1,0 +1,506 @@
+{
+    "0": [
+        {
+            "background": "red",
+            "body": "maroon",
+            "eyes": "standard",
+            "head_gear": "std_lord",
+            "clothes": "none",
+            "held_item": "nut",
+            "hands": "standard",
+            "wristband": "none"
+        }
+    ],
+    "1": [
+        {
+            "background": "green",
+            "body": "maroon",
+            "eyes": "standard",
+            "head_gear": "none",
+            "clothes": "blue_dot",
+            "held_item": "nut",
+            "hands": "standard",
+            "wristband": "yellow"
+        }
+    ],
+    "2": [
+        {
+            "background": "red",
+            "body": "maroon",
+            "eyes": "standard",
+            "head_gear": "none",
+            "clothes": "none",
+            "held_item": "nut",
+            "hands": "standard",
+            "wristband": "none"
+        }
+    ],
+    "3": [
+        {
+            "background": "white",
+            "body": "maroon",
+            "eyes": "standard",
+            "head_gear": "std_lord",
+            "clothes": "none",
+            "held_item": "nut",
+            "hands": "standard",
+            "wristband": "yellow"
+        }
+    ],
+    "4": [
+        {
+            "background": "black",
+            "body": "maroon",
+            "eyes": "standard",
+            "head_gear": "std_lord",
+            "clothes": "blue_dot",
+            "held_item": "nut",
+            "hands": "standard",
+            "wristband": "yellow"
+        }
+    ],
+    "5": [
+        {
+            "background": "green",
+            "body": "maroon",
+            "eyes": "standard",
+            "head_gear": "std_lord",
+            "clothes": "none",
+            "held_item": "nut",
+            "hands": "standard",
+            "wristband": "yellow"
+        }
+    ],
+    "6": [
+        {
+            "background": "orange",
+            "body": "maroon",
+            "eyes": "standard",
+            "head_gear": "none",
+            "clothes": "blue_dot",
+            "held_item": "nut",
+            "hands": "standard",
+            "wristband": "yellow"
+        }
+    ],
+    "7": [
+        {
+            "background": "black",
+            "body": "maroon",
+            "eyes": "standard",
+            "head_gear": "none",
+            "clothes": "blue_dot",
+            "held_item": "nut",
+            "hands": "standard",
+            "wristband": "yellow"
+        }
+    ],
+    "8": [
+        {
+            "background": "green",
+            "body": "maroon",
+            "eyes": "standard",
+            "head_gear": "none",
+            "clothes": "none",
+            "held_item": "nut",
+            "hands": "standard",
+            "wristband": "none"
+        }
+    ],
+    "9": [
+        {
+            "background": "black",
+            "body": "maroon",
+            "eyes": "standard",
+            "head_gear": "none",
+            "clothes": "none",
+            "held_item": "nut",
+            "hands": "standard",
+            "wristband": "none"
+        }
+    ],
+    "10": [
+        {
+            "background": "orange",
+            "body": "maroon",
+            "eyes": "standard",
+            "head_gear": "std_lord",
+            "clothes": "none",
+            "held_item": "nut",
+            "hands": "standard",
+            "wristband": "none"
+        }
+    ],
+    "11": [
+        {
+            "background": "red",
+            "body": "maroon",
+            "eyes": "standard",
+            "head_gear": "std_lord",
+            "clothes": "blue_dot",
+            "held_item": "nut",
+            "hands": "standard",
+            "wristband": "yellow"
+        }
+    ],
+    "12": [
+        {
+            "background": "blue",
+            "body": "maroon",
+            "eyes": "standard",
+            "head_gear": "none",
+            "clothes": "none",
+            "held_item": "nut",
+            "hands": "standard",
+            "wristband": "yellow"
+        }
+    ],
+    "13": [
+        {
+            "background": "blue",
+            "body": "maroon",
+            "eyes": "standard",
+            "head_gear": "none",
+            "clothes": "none",
+            "held_item": "nut",
+            "hands": "standard",
+            "wristband": "none"
+        }
+    ],
+    "14": [
+        {
+            "background": "orange",
+            "body": "maroon",
+            "eyes": "standard",
+            "head_gear": "std_lord",
+            "clothes": "blue_dot",
+            "held_item": "nut",
+            "hands": "standard",
+            "wristband": "yellow"
+        }
+    ],
+    "15": [
+        {
+            "background": "black",
+            "body": "maroon",
+            "eyes": "standard",
+            "head_gear": "std_lord",
+            "clothes": "blue_dot",
+            "held_item": "nut",
+            "hands": "standard",
+            "wristband": "none"
+        }
+    ],
+    "16": [
+        {
+            "background": "white",
+            "body": "maroon",
+            "eyes": "standard",
+            "head_gear": "std_lord",
+            "clothes": "blue_dot",
+            "held_item": "nut",
+            "hands": "standard",
+            "wristband": "yellow"
+        }
+    ],
+    "17": [
+        {
+            "background": "white",
+            "body": "maroon",
+            "eyes": "standard",
+            "head_gear": "none",
+            "clothes": "blue_dot",
+            "held_item": "nut",
+            "hands": "standard",
+            "wristband": "yellow"
+        }
+    ],
+    "18": [
+        {
+            "background": "green",
+            "body": "maroon",
+            "eyes": "standard",
+            "head_gear": "none",
+            "clothes": "none",
+            "held_item": "nut",
+            "hands": "standard",
+            "wristband": "yellow"
+        }
+    ],
+    "19": [
+        {
+            "background": "blue",
+            "body": "maroon",
+            "eyes": "standard",
+            "head_gear": "std_lord",
+            "clothes": "none",
+            "held_item": "nut",
+            "hands": "standard",
+            "wristband": "yellow"
+        }
+    ],
+    "20": [
+        {
+            "background": "green",
+            "body": "maroon",
+            "eyes": "standard",
+            "head_gear": "std_lord",
+            "clothes": "blue_dot",
+            "held_item": "nut",
+            "hands": "standard",
+            "wristband": "none"
+        }
+    ],
+    "21": [
+        {
+            "background": "red",
+            "body": "maroon",
+            "eyes": "standard",
+            "head_gear": "none",
+            "clothes": "blue_dot",
+            "held_item": "nut",
+            "hands": "standard",
+            "wristband": "none"
+        }
+    ],
+    "22": [
+        {
+            "background": "black",
+            "body": "maroon",
+            "eyes": "standard",
+            "head_gear": "std_lord",
+            "clothes": "none",
+            "held_item": "nut",
+            "hands": "standard",
+            "wristband": "yellow"
+        }
+    ],
+    "23": [
+        {
+            "background": "green",
+            "body": "maroon",
+            "eyes": "standard",
+            "head_gear": "std_lord",
+            "clothes": "blue_dot",
+            "held_item": "nut",
+            "hands": "standard",
+            "wristband": "yellow"
+        }
+    ],
+    "24": [
+        {
+            "background": "red",
+            "body": "maroon",
+            "eyes": "standard",
+            "head_gear": "none",
+            "clothes": "blue_dot",
+            "held_item": "nut",
+            "hands": "standard",
+            "wristband": "yellow"
+        }
+    ],
+    "25": [
+        {
+            "background": "red",
+            "body": "maroon",
+            "eyes": "standard",
+            "head_gear": "std_lord",
+            "clothes": "none",
+            "held_item": "nut",
+            "hands": "standard",
+            "wristband": "yellow"
+        }
+    ],
+    "26": [
+        {
+            "background": "white",
+            "body": "maroon",
+            "eyes": "standard",
+            "head_gear": "std_lord",
+            "clothes": "none",
+            "held_item": "nut",
+            "hands": "standard",
+            "wristband": "none"
+        }
+    ],
+    "27": [
+        {
+            "background": "black",
+            "body": "maroon",
+            "eyes": "standard",
+            "head_gear": "none",
+            "clothes": "none",
+            "held_item": "nut",
+            "hands": "standard",
+            "wristband": "yellow"
+        }
+    ],
+    "28": [
+        {
+            "background": "green",
+            "body": "maroon",
+            "eyes": "standard",
+            "head_gear": "none",
+            "clothes": "blue_dot",
+            "held_item": "nut",
+            "hands": "standard",
+            "wristband": "none"
+        }
+    ],
+    "29": [
+        {
+            "background": "white",
+            "body": "maroon",
+            "eyes": "standard",
+            "head_gear": "none",
+            "clothes": "none",
+            "held_item": "nut",
+            "hands": "standard",
+            "wristband": "yellow"
+        }
+    ],
+    "30": [
+        {
+            "background": "orange",
+            "body": "maroon",
+            "eyes": "standard",
+            "head_gear": "none",
+            "clothes": "blue_dot",
+            "held_item": "nut",
+            "hands": "standard",
+            "wristband": "none"
+        }
+    ],
+    "31": [
+        {
+            "background": "blue",
+            "body": "maroon",
+            "eyes": "standard",
+            "head_gear": "std_lord",
+            "clothes": "blue_dot",
+            "held_item": "nut",
+            "hands": "standard",
+            "wristband": "yellow"
+        }
+    ],
+    "32": [
+        {
+            "background": "red",
+            "body": "maroon",
+            "eyes": "standard",
+            "head_gear": "none",
+            "clothes": "none",
+            "held_item": "nut",
+            "hands": "standard",
+            "wristband": "yellow"
+        }
+    ],
+    "33": [
+        {
+            "background": "white",
+            "body": "maroon",
+            "eyes": "standard",
+            "head_gear": "std_lord",
+            "clothes": "blue_dot",
+            "held_item": "nut",
+            "hands": "standard",
+            "wristband": "none"
+        }
+    ],
+    "34": [
+        {
+            "background": "black",
+            "body": "maroon",
+            "eyes": "standard",
+            "head_gear": "none",
+            "clothes": "blue_dot",
+            "held_item": "nut",
+            "hands": "standard",
+            "wristband": "none"
+        }
+    ],
+    "35": [
+        {
+            "background": "white",
+            "body": "maroon",
+            "eyes": "standard",
+            "head_gear": "none",
+            "clothes": "none",
+            "held_item": "nut",
+            "hands": "standard",
+            "wristband": "none"
+        }
+    ],
+    "36": [
+        {
+            "background": "orange",
+            "body": "maroon",
+            "eyes": "standard",
+            "head_gear": "none",
+            "clothes": "none",
+            "held_item": "nut",
+            "hands": "standard",
+            "wristband": "yellow"
+        }
+    ],
+    "37": [
+        {
+            "background": "green",
+            "body": "maroon",
+            "eyes": "standard",
+            "head_gear": "std_lord",
+            "clothes": "none",
+            "held_item": "nut",
+            "hands": "standard",
+            "wristband": "none"
+        }
+    ],
+    "38": [
+        {
+            "background": "blue",
+            "body": "maroon",
+            "eyes": "standard",
+            "head_gear": "none",
+            "clothes": "blue_dot",
+            "held_item": "nut",
+            "hands": "standard",
+            "wristband": "yellow"
+        }
+    ],
+    "39": [
+        {
+            "background": "blue",
+            "body": "maroon",
+            "eyes": "standard",
+            "head_gear": "none",
+            "clothes": "blue_dot",
+            "held_item": "nut",
+            "hands": "standard",
+            "wristband": "none"
+        }
+    ],
+    "40": [
+        {
+            "background": "orange",
+            "body": "maroon",
+            "eyes": "standard",
+            "head_gear": "std_lord",
+            "clothes": "blue_dot",
+            "held_item": "nut",
+            "hands": "standard",
+            "wristband": "none"
+        }
+    ],
+    "41": [
+        {
+            "background": "orange",
+            "body": "maroon",
+            "eyes": "standard",
+            "head_gear": "std_lord",
+            "clothes": "none",
+            "held_item": "nut",
+            "hands": "standard",
+            "wristband": "yellow"
+        }
+    ]
+}
